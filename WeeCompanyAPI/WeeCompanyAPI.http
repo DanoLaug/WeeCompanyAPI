@@ -1,6 +1,0 @@
-@WeeCompanyAPI_HostAddress = http://localhost:5216
-
-GET {{WeeCompanyAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
